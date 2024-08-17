@@ -1,0 +1,15 @@
+D:\NNPQ\Dealine\Nhóm Success\Tham_Lam\Tham_Lam\bin\Debug\net6.0\Tham_Lam.exe
+D:\NNPQ\Dealine\Nhóm Success\Tham_Lam\Tham_Lam\bin\Debug\net6.0\Tham_Lam.deps.json
+D:\NNPQ\Dealine\Nhóm Success\Tham_Lam\Tham_Lam\bin\Debug\net6.0\Tham_Lam.runtimeconfig.json
+D:\NNPQ\Dealine\Nhóm Success\Tham_Lam\Tham_Lam\bin\Debug\net6.0\Tham_Lam.dll
+D:\NNPQ\Dealine\Nhóm Success\Tham_Lam\Tham_Lam\bin\Debug\net6.0\Tham_Lam.pdb
+D:\NNPQ\Dealine\Nhóm Success\Tham_Lam\Tham_Lam\obj\Debug\net6.0\Tham_Lam.csproj.AssemblyReference.cache
+D:\NNPQ\Dealine\Nhóm Success\Tham_Lam\Tham_Lam\obj\Debug\net6.0\Tham_Lam.GeneratedMSBuildEditorConfig.editorconfig
+D:\NNPQ\Dealine\Nhóm Success\Tham_Lam\Tham_Lam\obj\Debug\net6.0\Tham_Lam.AssemblyInfoInputs.cache
+D:\NNPQ\Dealine\Nhóm Success\Tham_Lam\Tham_Lam\obj\Debug\net6.0\Tham_Lam.AssemblyInfo.cs
+D:\NNPQ\Dealine\Nhóm Success\Tham_Lam\Tham_Lam\obj\Debug\net6.0\Tham_Lam.csproj.CoreCompileInputs.cache
+D:\NNPQ\Dealine\Nhóm Success\Tham_Lam\Tham_Lam\obj\Debug\net6.0\Tham_Lam.dll
+D:\NNPQ\Dealine\Nhóm Success\Tham_Lam\Tham_Lam\obj\Debug\net6.0\refint\Tham_Lam.dll
+D:\NNPQ\Dealine\Nhóm Success\Tham_Lam\Tham_Lam\obj\Debug\net6.0\Tham_Lam.pdb
+D:\NNPQ\Dealine\Nhóm Success\Tham_Lam\Tham_Lam\obj\Debug\net6.0\Tham_Lam.genruntimeconfig.cache
+D:\NNPQ\Dealine\Nhóm Success\Tham_Lam\Tham_Lam\obj\Debug\net6.0\ref\Tham_Lam.dll
