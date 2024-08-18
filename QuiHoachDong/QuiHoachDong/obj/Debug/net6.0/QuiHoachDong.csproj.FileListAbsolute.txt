@@ -1,0 +1,15 @@
+D:\NNPQ\Dealine\Nhóm Success\QuiHoachDong\QuiHoachDong\bin\Debug\net6.0\QuiHoachDong.exe
+D:\NNPQ\Dealine\Nhóm Success\QuiHoachDong\QuiHoachDong\bin\Debug\net6.0\QuiHoachDong.deps.json
+D:\NNPQ\Dealine\Nhóm Success\QuiHoachDong\QuiHoachDong\bin\Debug\net6.0\QuiHoachDong.runtimeconfig.json
+D:\NNPQ\Dealine\Nhóm Success\QuiHoachDong\QuiHoachDong\bin\Debug\net6.0\QuiHoachDong.dll
+D:\NNPQ\Dealine\Nhóm Success\QuiHoachDong\QuiHoachDong\bin\Debug\net6.0\QuiHoachDong.pdb
+D:\NNPQ\Dealine\Nhóm Success\QuiHoachDong\QuiHoachDong\obj\Debug\net6.0\QuiHoachDong.csproj.AssemblyReference.cache
+D:\NNPQ\Dealine\Nhóm Success\QuiHoachDong\QuiHoachDong\obj\Debug\net6.0\QuiHoachDong.GeneratedMSBuildEditorConfig.editorconfig
+D:\NNPQ\Dealine\Nhóm Success\QuiHoachDong\QuiHoachDong\obj\Debug\net6.0\QuiHoachDong.AssemblyInfoInputs.cache
+D:\NNPQ\Dealine\Nhóm Success\QuiHoachDong\QuiHoachDong\obj\Debug\net6.0\QuiHoachDong.AssemblyInfo.cs
+D:\NNPQ\Dealine\Nhóm Success\QuiHoachDong\QuiHoachDong\obj\Debug\net6.0\QuiHoachDong.csproj.CoreCompileInputs.cache
+D:\NNPQ\Dealine\Nhóm Success\QuiHoachDong\QuiHoachDong\obj\Debug\net6.0\QuiHoachDong.dll
+D:\NNPQ\Dealine\Nhóm Success\QuiHoachDong\QuiHoachDong\obj\Debug\net6.0\refint\QuiHoachDong.dll
+D:\NNPQ\Dealine\Nhóm Success\QuiHoachDong\QuiHoachDong\obj\Debug\net6.0\QuiHoachDong.pdb
+D:\NNPQ\Dealine\Nhóm Success\QuiHoachDong\QuiHoachDong\obj\Debug\net6.0\QuiHoachDong.genruntimeconfig.cache
+D:\NNPQ\Dealine\Nhóm Success\QuiHoachDong\QuiHoachDong\obj\Debug\net6.0\ref\QuiHoachDong.dll

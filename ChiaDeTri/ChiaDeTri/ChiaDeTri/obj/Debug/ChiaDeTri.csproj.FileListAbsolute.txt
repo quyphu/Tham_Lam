@@ -1,6 +1,0 @@
-C:\Users\Administrator\Downloads\ChiaDeTri\ChiaDeTri\bin\Debug\ChiaDeTri.exe.config
-C:\Users\Administrator\Downloads\ChiaDeTri\ChiaDeTri\bin\Debug\ChiaDeTri.exe
-C:\Users\Administrator\Downloads\ChiaDeTri\ChiaDeTri\bin\Debug\ChiaDeTri.pdb
-C:\Users\Administrator\Downloads\ChiaDeTri\ChiaDeTri\obj\Debug\ChiaDeTri.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\Downloads\ChiaDeTri\ChiaDeTri\obj\Debug\ChiaDeTri.exe
-C:\Users\Administrator\Downloads\ChiaDeTri\ChiaDeTri\obj\Debug\ChiaDeTri.pdb
