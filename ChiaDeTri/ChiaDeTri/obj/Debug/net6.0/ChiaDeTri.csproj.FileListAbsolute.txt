@@ -1,0 +1,15 @@
+D:\NNPQ\Dealine\Nhóm Success\ChiaDeTri\ChiaDeTri\bin\Debug\net6.0\ChiaDeTri.exe
+D:\NNPQ\Dealine\Nhóm Success\ChiaDeTri\ChiaDeTri\bin\Debug\net6.0\ChiaDeTri.deps.json
+D:\NNPQ\Dealine\Nhóm Success\ChiaDeTri\ChiaDeTri\bin\Debug\net6.0\ChiaDeTri.runtimeconfig.json
+D:\NNPQ\Dealine\Nhóm Success\ChiaDeTri\ChiaDeTri\bin\Debug\net6.0\ChiaDeTri.dll
+D:\NNPQ\Dealine\Nhóm Success\ChiaDeTri\ChiaDeTri\bin\Debug\net6.0\ChiaDeTri.pdb
+D:\NNPQ\Dealine\Nhóm Success\ChiaDeTri\ChiaDeTri\obj\Debug\net6.0\ChiaDeTri.csproj.AssemblyReference.cache
+D:\NNPQ\Dealine\Nhóm Success\ChiaDeTri\ChiaDeTri\obj\Debug\net6.0\ChiaDeTri.GeneratedMSBuildEditorConfig.editorconfig
+D:\NNPQ\Dealine\Nhóm Success\ChiaDeTri\ChiaDeTri\obj\Debug\net6.0\ChiaDeTri.AssemblyInfoInputs.cache
+D:\NNPQ\Dealine\Nhóm Success\ChiaDeTri\ChiaDeTri\obj\Debug\net6.0\ChiaDeTri.AssemblyInfo.cs
+D:\NNPQ\Dealine\Nhóm Success\ChiaDeTri\ChiaDeTri\obj\Debug\net6.0\ChiaDeTri.csproj.CoreCompileInputs.cache
+D:\NNPQ\Dealine\Nhóm Success\ChiaDeTri\ChiaDeTri\obj\Debug\net6.0\ChiaDeTri.dll
+D:\NNPQ\Dealine\Nhóm Success\ChiaDeTri\ChiaDeTri\obj\Debug\net6.0\refint\ChiaDeTri.dll
+D:\NNPQ\Dealine\Nhóm Success\ChiaDeTri\ChiaDeTri\obj\Debug\net6.0\ChiaDeTri.pdb
+D:\NNPQ\Dealine\Nhóm Success\ChiaDeTri\ChiaDeTri\obj\Debug\net6.0\ChiaDeTri.genruntimeconfig.cache
+D:\NNPQ\Dealine\Nhóm Success\ChiaDeTri\ChiaDeTri\obj\Debug\net6.0\ref\ChiaDeTri.dll
